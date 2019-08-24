@@ -1,0 +1,5 @@
+2019-08-24 21:57:50,624 DEBUG - Harmless debug Message
+2019-08-24 21:57:50,625 INFO - Just an information
+2019-08-24 21:57:50,625 WARNING - Its a Warning
+2019-08-24 21:57:50,626 ERROR - Did you try to divide by zero
+2019-08-24 21:57:50,628 CRITICAL - Internet is down
